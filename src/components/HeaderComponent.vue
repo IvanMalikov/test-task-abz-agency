@@ -30,6 +30,12 @@
         display: flex;
         justify-content: space-between;
         align-items: center;
+        .header_logo {
+            img {
+                width: 104px;
+                height: 26px;
+            }
+        }
     }
 
     &_buttons {
